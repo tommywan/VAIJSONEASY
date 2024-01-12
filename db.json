@@ -1,0 +1,51 @@
+{
+  "store": [
+    {
+      "id": 1,
+      "email": "marina.ferdman@gmail.com",
+      "phone": "4047235203",
+      "name": "Tommy Baylark",
+      "balance": "250.50",
+      "next_refill_date": "2023-12-30",
+      "pin": "1234"
+    },
+    {
+      "id": 2,
+      "email": "dgerzon@gmail.com",
+      "phone": "2016942180",
+      "name": "Dmitriy Gerzon",
+      "balance": "345.50",
+      "next_refill_date": "2023-12-30",
+      "pin": "4321"
+    },
+    {
+      "id": 3,
+      "email": "dgerzon15@gmail.com",
+      "phone": "1234567890",
+      "name": "David Gerzon",
+      "balance": "10.0",
+      "next_refill_date": "2024-01-01",
+      "pin": "1111"
+    }
+  ],
+  "papers": [
+    {
+      "paper_id": 1111,
+      "status": "Graded",
+      "paper_name": "Advanced Math 2",
+      "grade_date": "2023-12-30"
+    },
+    {
+      "paper_id": 2222,
+      "status": "Under Review",
+      "paper_name": "Organic Chemistry",
+      "grade_date": "2024-01-01"
+    },
+    {
+      "paper_id": 3333,
+      "status": "Submitted",
+      "paper_name": "Calculus2 ",
+      "grade_date": "2024-10-01"
+    }
+  ]
+}
