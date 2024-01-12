@@ -1,13 +1,34 @@
 {
-  "store": [
-    {
-      "Quickcode": 123,
-      "OfficeName": "Vonage Demo",
-      "phone": "14047235203",
-      "name": "Tommy Baylark",
-      "TimeZone": "CST",
-      "Date": "2024-1-12",
-      "Type": "Branded",
-      "HelloInc": "8881234567"
-      "TransferNum": "16787019123"
-    }
+    "store": [
+      {
+        "QuickCodes": 123,
+        "TransferNum": "16787019123",
+        "phone": "14047235203",
+        "OfficeName": "Vonage Demo",
+        "TimeZone": "CST",
+        "Date": "2024-1-12",
+        "HelloInc": "8881234567",
+        "Type": "Branded"
+      },
+      {
+        "QuickCodes": "Null",
+        "TransferNum": "Null",
+        "phone": "Null",
+        "OfficeName": "Null",
+        "TimeZone": "Null",
+        "Date": "Null",
+        "HelloInc": "Null",
+        "Type": "Null"
+      },
+      {
+        "QuickCodes": "Null",
+        "TransferNum": "Null",
+        "phone": "Null",
+        "OfficeName": "Null",
+        "TimeZone": "Null",
+        "Date": "Null",
+        "HelloInc": "Null",
+        "Type": "Null"
+      }
+    ]
+  }
