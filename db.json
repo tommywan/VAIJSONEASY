@@ -38,7 +38,7 @@
         "State": "Georgia",
         "Location link": "https://locations.myeyedr.com/ga/atlanta/3155-cobb-pkwy",
         "Hours": "8am-5pm EST",
-        "QuickCode": "123"
+        "code": "123"
       },
       {
         "Street Address": "3155 Cobb Pkwy Suite 110",
@@ -46,7 +46,7 @@
         "State": "Georgia",
         "Location link": "https://locations.myeyedr.com/ga/atlanta/3155-cobb-pkwy",
         "Hours": "8am-5pm EST",
-        "QuickCode": "456"
+        "code": "456"
       },
       {
         "Street Address": "3155 Cobb Pkwy Suite 110",
@@ -54,7 +54,7 @@
         "State": "Georgia",
         "Location link": "https://locations.myeyedr.com/ga/atlanta/3155-cobb-pkwy",
         "Hours": "8am-5pm EST",
-        "QuickCode": "789"
+        "code": "789"
       }
     ]
   }
