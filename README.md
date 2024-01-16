@@ -1,0 +1,1 @@
+This is my easy way to show customers how we can use webhooks to GET parameters from a DB and use them in VAI. You can use the DB to update a number of parameters mapped in VAI. Feel free to take the DB, create your own values and map them in your VAI webhook. Create your parameters and use the "$" in the studio to map your custom parameters. 
