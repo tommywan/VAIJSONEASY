@@ -1,60 +1,6 @@
 {
-    "store": [
+    "destinations": [
       {
-        "QuickCodes": 123,
-        "TransferNum": "16787019123",
-        "phone": "14047235203",
-        "OfficeName": "Vonage Demo",
-        "TimeZone": "CST",
-        "Date": "2024-1-12",
-        "HelloInc": "8881234567",
-        "Type": "Branded"
-      },
-      {
-        "QuickCodes": "Null",
-        "TransferNum": "Null",
-        "phone": "Null",
-        "OfficeName": "Null",
-        "TimeZone": "Null",
-        "Date": "Null",
-        "HelloInc": "Null",
-        "Type": "Null"
-      },
-      {
-        "QuickCodes": "Null",
-        "TransferNum": "Null",
-        "phone": "Null",
-        "OfficeName": "Null",
-        "TimeZone": "Null",
-        "Date": "Null",
-        "HelloInc": "Null",
-        "Type": "Null"
-      }
-    ],
-    "address": [
-      {
-        "Street Address": "3155 Cobb Pkwy Suite 110",
-        "City": "Atlanta",
-        "State": "Georgia",
-        "Location link": "https://locations.myeyedr.com/ga/atlanta/3155-cobb-pkwy",
-        "Hours": "8am-5pm EST",
-        "code": "123"
-      },
-      {
-        "Street Address": "3155 Cobb Pkwy Suite 110",
-        "City": "Atlanta",
-        "State": "Georgia",
-        "Location link": "https://locations.myeyedr.com/ga/atlanta/3155-cobb-pkwy",
-        "Hours": "8am-5pm EST",
-        "code": "456"
-      },
-      {
-        "Street Address": "3155 Cobb Pkwy Suite 110",
-        "City": "Atlanta",
-        "State": "Georgia",
-        "Location link": "https://locations.myeyedr.com/ga/atlanta/3155-cobb-pkwy",
-        "Hours": "8am-5pm EST",
-        "code": "789"
-      }
-    ]
+        "Itn_1": "a 7 day cruise where you can explore lush vegetation, dramatic volcanoes and famous surf spots",
+        "Itn_2": "a 6 day cruise where you can enjoy sunset strolls on the beach and a amazing food with our world class chefs",
   }
