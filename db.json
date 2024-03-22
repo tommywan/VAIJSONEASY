@@ -1,10 +1,60 @@
 {
-    "vacay": [
-        {
-            "itn_1": "a 7 day cruise where you can explore lush vegetation, dramatic volcanoes and famous surf spots"
-        },
-        {
-            "itn_2": "a 6 day cruise where you can enjoy sunset strolls on the beach and amazing food with our world class chefs"
-        }
+    "store": [
+      {
+        "QuickCodes": 123,
+        "TransferNum": "17733411065",
+        "phone": "14047235203",
+        "OfficeName": "Vonage Demo",
+        "TimeZone": "CST",
+        "Date": "2024-1-12",
+        "HelloInc": "8881234567",
+        "Type": "Branded"
+      },
+      {
+        "QuickCodes": "Null",
+        "TransferNum": "Null",
+        "phone": "Null",
+        "OfficeName": "Null",
+        "TimeZone": "Null",
+        "Date": "Null",
+        "HelloInc": "Null",
+        "Type": "Null"
+      },
+      {
+        "QuickCodes": "Null",
+        "TransferNum": "Null",
+        "phone": "Null",
+        "OfficeName": "Null",
+        "TimeZone": "Null",
+        "Date": "Null",
+        "HelloInc": "Null",
+        "Type": "Null"
+      }
+    ],
+    "address": [
+      {
+        "Street Address": "3155 Cobb Pkwy Suite 110",
+        "City": "Atlanta",
+        "State": "Georgia",
+        "Location link": "",
+        "Hours": "8am-5pm EST",
+        "code": "123"
+      },
+      {
+        "Street Address": "3155 Cobb Pkwy Suite 110",
+        "City": "Atlanta",
+        "State": "Georgia",
+        "Location link": "",
+        "Hours": "8am-5pm EST",
+        "code": "456"
+      },
+      {
+        "Street Address": "3155 Cobb Pkwy Suite 110",
+        "City": "Atlanta",
+        "State": "Georgia",
+        "Location link": "",
+        "Hours": "8am-5pm EST",
+        "code": "789"
+      }
     ]
-}
+  }
