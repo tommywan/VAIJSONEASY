@@ -1,34 +1,31 @@
 {
-    "Branch": [
+    "Customer": [
       {
-        "Location": 123,
-        "TransferNum": "14047235203",
-        "phone": "6787019123",
-        "OfficeName": "Vonage Demo",
-        "TimeZone": "CST",
-        "Date": "2024-1-12",
+        "Pin": 8901,
+        "Card": "5203",
+        "phone": "4047235203",
+        "TimeZone": "EST",
+        "Account": "Jones",
         "Oncall": "2158759123",
-        "Type": "Null"
+        "Type": "Money Market"
       },
       {
-        "Location": 456,
-        "TransferNum": "14047235203",
-        "phone": "6787019123",
-        "OfficeName": "Vonage Demo",
-        "TimeZone": "CST",
-        "Date": "2024-1-12",
+        "Pin": 1234,
+        "Card": "5203",
+        "phone": "4047235203",
+        "TimeZone": "EST",
+        "Name": "Tommy",
         "Oncall": "2158759123",
-        "Type": "Null"
+        "Type": "Checking"
       },
       {
-         "Location": 789,
-        "TransferNum": "14047235203",
-        "phone": "6787019123",
-        "OfficeName": "Vonage Demo",
-        "TimeZone": "CST",
-        "Date": "2024-1-12",
+        "Pin": 5678,
+        "Card": "5203",
+        "phone": "4047235203",
+        "TimeZone": "EST",
+        "Account": "Baylark",
         "Oncall": "2158759123",
-        "Type": "Null"
+        "Type": "Savings"
       }
     ],
     "address": [
