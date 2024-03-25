@@ -6,7 +6,7 @@
         "phone": "4047235203",
         "TimeZone": "EST",
         "Account": "Jones",
-        "Oncall": "2158759123",
+        "Amount": "56,300.45",
         "Type": "Money Market"
       },
       {
@@ -15,7 +15,7 @@
         "phone": "4047235203",
         "TimeZone": "EST",
         "Name": "Tommy",
-        "Oncall": "2158759123",
+        "Amount": "2,354.90",
         "Type": "Checking"
       },
       {
@@ -24,7 +24,7 @@
         "phone": "4047235203",
         "TimeZone": "EST",
         "Account": "Baylark",
-        "Oncall": "2158759123",
+        "Amount": "6,535.34",
         "Type": "Savings"
       }
     ],
