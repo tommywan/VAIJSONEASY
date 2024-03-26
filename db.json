@@ -1,7 +1,7 @@
 {
     "Customer": [
       {
-        "Pin": 8901,
+        "Pin": "8901",
         "Card": "5203",
         "Phone": "4047235203",
         "TimeZone": "EST",
@@ -10,8 +10,8 @@
         "Type": "Money Market"
       },
       {
-        "Pin": 1234,
-        "Card": "5203",
+        "Pin": "1234",
+        "Card": "9123",
         "Phone": "4047235203",
         "TimeZone": "EST",
         "Name": "Tommy B",
@@ -19,8 +19,8 @@
         "Type": "Checking"
       },
       {
-        "Pin": 5678,
-        "Card": "5203",
+        "Pin": "5678",
+        "Card": "4855",
         "Phone": "4047235203",
         "TimeZone": "EST",
         "Name": "Baylark Family",
