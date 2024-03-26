@@ -3,7 +3,7 @@
       {
         "Pin": 8901,
         "Card": "5203",
-        "phone": "4047235203",
+        "Phone": "4047235203",
         "TimeZone": "EST",
         "Account": "Jones",
         "Amount": "56,300.45",
@@ -12,7 +12,7 @@
       {
         "Pin": 1234,
         "Card": "5203",
-        "phone": "4047235203",
+        "Phone": "4047235203",
         "TimeZone": "EST",
         "Name": "Tommy",
         "Amount": "2,354.90",
@@ -21,7 +21,7 @@
       {
         "Pin": 5678,
         "Card": "5203",
-        "phone": "4047235203",
+        "Phone": "4047235203",
         "TimeZone": "EST",
         "Account": "Baylark",
         "Amount": "6,535.34",
