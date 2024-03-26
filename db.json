@@ -1,57 +1,31 @@
 {
-    "Customer": [
-      {
-        "Pin": "8901",
-        "Card": "5203",
-        "Phone": "4047235203",
-        "TimeZone": "EST",
-        "Name": "Dr. Jones",
-        "Amount": "56,300.45",
-        "Type": "Money Market"
-      },
-      {
-        "Pin": "1234",
-        "Card": "9123",
-        "Phone": "4047235203",
-        "TimeZone": "EST",
-        "Name": "Tommy B",
-        "Amount": "2,354.90",
-        "Type": "Checking"
-      },
-      {
-        "Pin": "5678",
-        "Card": "4855",
-        "Phone": "4047235203",
-        "TimeZone": "EST",
-        "Name": "Baylark Family",
-        "Amount": "6,535.34",
-        "Type": "Savings"
+  "customers": [
+    {
+      "pin": "1234",
+      "data": {
+        "name": "Dr. Jones",
+        "type": "Money Market",
+        "amount": "56,081.78",
+        "card": "4855"
       }
-    ],
-    "address": [
-      {
-        "Street Address": "3155 Cobb Pkwy Suite 110",
-        "City": "Atlanta",
-        "State": "Georgia",
-        "Location link": "",
-        "Hours": "8am-5pm EST",
-        "code": "123"
-      },
-      {
-        "Street Address": "3155 Cobb Pkwy Suite 110",
-        "City": "Atlanta",
-        "State": "Georgia",
-        "Location link": "",
-        "Hours": "8am-5pm EST",
-        "code": "456"
-      },
-      {
-        "Street Address": "3155 Cobb Pkwy Suite 110",
-        "City": "Atlanta",
-        "State": "Georgia",
-        "Location link": "",
-        "Hours": "8am-5pm EST",
-        "code": "789"
+    },
+    {
+      "pin": "5678",
+      "data": {
+        "name": "Tommy B",
+        "type": "Checking",
+        "aadmount": "1,003.56",
+        "card": "5203"
       }
-    ]
-  }
+    },
+    {
+      "pin": "9012",
+      "data": {
+        "name": "Alice Johnson",
+        "type": "Savings",
+        "amount": "23,903.44",
+        "card": "9123"
+      }
+    }
+  ]
+}
