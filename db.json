@@ -5,7 +5,7 @@
         "Card": "5203",
         "Phone": "4047235203",
         "TimeZone": "EST",
-        "Account": "Jones",
+        "Name": "Dr. Jones",
         "Amount": "56,300.45",
         "Type": "Money Market"
       },
@@ -14,7 +14,7 @@
         "Card": "5203",
         "Phone": "4047235203",
         "TimeZone": "EST",
-        "Name": "Tommy",
+        "Name": "Tommy B",
         "Amount": "2,354.90",
         "Type": "Checking"
       },
@@ -23,7 +23,7 @@
         "Card": "5203",
         "Phone": "4047235203",
         "TimeZone": "EST",
-        "Account": "Baylark",
+        "Name": "Baylark Family",
         "Amount": "6,535.34",
         "Type": "Savings"
       }
