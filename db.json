@@ -4,27 +4,27 @@
       "pin": "1234",
       "data": {
         "name": "Dr. Jones",
-        "type": "Money Market",
-        "amount": "56,081.78",
-        "card": "4855"
+        "application": "none",
+        "meeting": July 31 6:30 PM",
+        "lawncare": "July 31 8 AM"
       }
     },
     {
       "pin": "5678",
       "data": {
-        "name": "Tommy B",
-        "type": "Checking",
-        "amount": "1,003.56",
-        "card": "5203"
+        "name": "Tommy Baylark",
+        "application": "Processing",
+        "meeting": "July 25th 3 PM",
+        "lawncare": "July 26th 7 PM"
       }
     },
     {
       "pin": "9012",
       "data": {
         "name": "Alice Johnson",
-        "type": "Savings",
-        "amount": "23,903.44",
-        "card": "9123"
+        "application": "Savings",
+        "meeting": "August 4th 7 PM",
+        "lawncare": "July 29th 7 PM"
       }
     }
   ]
