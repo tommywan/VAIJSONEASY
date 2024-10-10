@@ -1,34 +1,34 @@
 {
-  "customers": [
-    {
-      "pin": "5678",
-      "data": {
-        "name": "Dr. Jones",
-        "order": "Processing",
-        "delivery": "October 17th",
-        "new": "October 22nd",
-        "donation": "100 dollars",
-      }
-    },
-    {
-      "pin": "1234",
-      "data": {
-        "name": "Tommy Baylark",
-        "order": "Processing",
-        "delivery": "October 17th",
-        "new": "October 22nd",
-        "donation": "100 dollars",
-      }
-    },
-    {
-      "pin": "9012",
-      "data": {
-        "name": "Alice Johnson",
-        "order": "Processing",
-        "delivery": "October 17th",
-        "new": "October 22nd",
-        "donation": "100 dollars",
-      }
-    }
-  ]
+    "customers": [
+        {
+            "pin": "5678",
+            "data": {
+                "name": "Dr. Jones",
+                "order": "Processing",
+                "delivery": "October 17th",
+                "new": "October 22nd",
+                "donation": "100 dollars"
+            }
+        },
+        {
+            "pin": "1234",
+            "data": {
+                "name": "Tommy Baylark",
+                "order": "Processing",
+                "delivery": "October 17th",
+                "new": "October 22nd",
+                "donation": "100 dollars"
+            }
+        },
+        {
+            "pin": "9012",
+            "data": {
+                "name": "Alice Johnson",
+                "order": "Processing",
+                "delivery": "October 17th",
+                "new": "October 22nd",
+                "donation": "100 dollars"
+            }
+        }
+    ]
 }
