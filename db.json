@@ -8,7 +8,6 @@
         "delivery": "October 17th",
         "new": "October 22nd",
         "donation": "$100",
-      }
     },
     {
       "pin": "1234",
@@ -18,7 +17,6 @@
         "delivery": "October 17th",
         "new": "October 22nd",
         "donation": "$100",
-      }
     },
     {
       "pin": "9012",
@@ -28,7 +26,6 @@
         "delivery": "October 17th",
         "new": "October 22nd",
         "donation": "$100",
-      }
     }
   ]
 }
