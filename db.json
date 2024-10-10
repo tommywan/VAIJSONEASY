@@ -7,7 +7,7 @@
         "order": "Processing",
         "delivery": "October 17th",
         "new": "October 22nd",
-        "donation": "$100",
+        "donation": "100 dollars",
     },
     {
       "pin": "1234",
@@ -16,7 +16,7 @@
         "order": "Processing",
         "delivery": "October 17th",
         "new": "October 22nd",
-        "donation": "$100",
+        "donation": "100 dollars",
     },
     {
       "pin": "9012",
@@ -25,7 +25,7 @@
         "order": "Processing",
         "delivery": "October 17th",
         "new": "October 22nd",
-        "donation": "$100",
+        "donation": "100 dollars",
     }
   ]
 }
