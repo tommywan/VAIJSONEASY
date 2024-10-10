@@ -6,8 +6,8 @@
         "name": "Dr. Jones",
         "order": "Processing",
         "delivery": "October 17th",
-        "new": "October 22nd"
-        "donation": "$100"
+        "new": "October 22nd",
+        "donation": "$100",
       }
     },
     {
@@ -16,8 +16,8 @@
         "name": "Tommy Baylark",
         "order": "Processing",
         "delivery": "October 17th",
-        "new": "October 22nd"
-        "donation": "$100"
+        "new": "October 22nd",
+        "donation": "$100",
       }
     },
     {
@@ -26,8 +26,8 @@
         "name": "Alice Johnson",
         "order": "Processing",
         "delivery": "October 17th",
-        "new": "October 22nd"
-        "donation": "$100"
+        "new": "October 22nd",
+        "donation": "$100",
       }
     }
   ]
