@@ -1,33 +1,37 @@
 {
-    "customers": [
+    "customer": [
         {
             "pin": "5678",
             "data": {
-                "name": "Randall Cunningham",
+                "name": "Sam Lewis",
                 "order": "Processing",
-                "delivery": "October 17th",
-                "new": "October 22nd",
-                "donation": "100 dollars"
+                "laptop": "MacBook Pro M1",
+                "printer": "Null",
+                "monitor": "Samsung S3",
+                "phone": "Poly VVX450"
             }
         },
         {
             "pin": "1234",
             "data": {
-                "name": "Randall Cunningham",
-                "order": "Processing",
-                "delivery": "October 17th",
-                "new": "October 22nd",
-                "donation": "100 dollars"
+                "name": "Jake Smith",
+                "pwreset": "http://resetmypass.fakelink.com",
+                "laptop": "MacBook Pro M4",
+                "printer": "HP Deskjet 2334",
+                "monitor": "Null",
+                "phone": "Teams Softphone"
             }
         },
         {
             "pin": "9012",
             "data": {
                 "name": "Alice Johnson",
-                "order": "Processing",
-                "delivery": "October 17th",
-                "new": "October 22nd",
-                "donation": "100 dollars"
+                "pwreset": "http://resetmypass.fakelink.com",
+                "delivery": "Dell Latitude 3550",
+                "printer": "Null",
+                "monitor": "LG 27mp60",
+                "phone": "Yealink T54"
+            
             }
         }
     ]
