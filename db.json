@@ -4,7 +4,7 @@
             "pin": "5678",
             "data": {
                 "name": "Sam Lewis",
-                "order": "Processing",
+                "order": "https://aka.ms/sspr?whr=stlcc.edu",
                 "laptop": "MacBook Pro M1",
                 "printer": "Null",
                 "monitor": "Samsung S3",
@@ -15,7 +15,7 @@
             "pin": "1234",
             "data": {
                 "name": "Jake Smith",
-                "pwreset": "http://resetmypass.fakelink.com",
+                "pwreset": "https://aka.ms/sspr?whr=stlcc.edu",
                 "laptop": "MacBook Pro M4",
                 "printer": "HP Deskjet 2334",
                 "monitor": "Null",
@@ -26,7 +26,7 @@
             "pin": "9012",
             "data": {
                 "name": "Alice Johnson",
-                "pwreset": "http://resetmypass.fakelink.com",
+                "pwreset": "https://aka.ms/sspr?whr=stlcc.edu",
                 "delivery": "Dell Latitude 3550",
                 "printer": "Null",
                 "monitor": "LG 27mp60",
