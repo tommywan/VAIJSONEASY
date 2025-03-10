@@ -1,7 +1,7 @@
 {
     "customer": [
         {
-            "pin": "5678",
+            "pin": "02020501",
             "data": {
                 "name": "Sam Lewis",
                 "order": "https://aka.ms/sspr?whr=stlcc.edu",
