@@ -28,10 +28,10 @@
             "data": {
                 "name": "Alice Johnson",
                 "pwreset": "https://aka.ms/sspr?whr=stlcc.edu",
-                "delivery": "Dell Latitude 3550",
-                "printer": "Null",
+                "laptop": "Dell Latitude 3550",
                 "monitor": "LG 27mp60",
                 "phone": "Yealink T54"
+                "DOB": "01012001"
             
             }
         }
