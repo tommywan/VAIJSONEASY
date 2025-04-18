@@ -15,7 +15,7 @@
         {
             "pin": "1234",
             "data": {
-                "name": "Jake Smith",
+                "name": "Jake",
                 "pwreset": "https://aka.ms/sspr?whr=stlcc.edu",
                 "laptop": "MacBook Pro M4",
                 "printer": "HP Deskjet 2334",
