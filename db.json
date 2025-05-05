@@ -37,8 +37,10 @@
                 "monitor": "Dell C2422",
                 "monitor2": "Dell P2425HEB",
                 "phone": "ShoreTel 212k",
-            },
-             {
+             }
+           
+        },
+        {
             "pin": "03032025",
             "data": {
                 "name": "Moo Moo",
@@ -49,8 +51,9 @@
                 "monitor": "Dell C2422",
                 "monitor2": "Dell P2425HEB",
                 "phone": "ShoreTel 212k",
-            },
-             {
+            }
+        },
+        {
             "pin": "04042025",
             "data": {
                 "name": "Moo Moo",
@@ -61,8 +64,9 @@
                 "monitor": "Dell C2422",
                 "monitor2": "Dell P2425HEB",
                 "phone": "ShoreTel 212k",
-            },
-             {
+            }
+        },
+        {
             "pin": "05052025",
             "data": {
                 "name": "Moo Moo",
@@ -73,8 +77,9 @@
                 "monitor": "Dell C2422",
                 "monitor2": "Dell P2425HEB",
                 "phone": "ShoreTel 212k",
-            },
-             {
+             }
+        },
+        {
             "pin": "06062025",
             "data": {
                 "name": "Moo Moo",
@@ -85,8 +90,9 @@
                 "monitor": "Dell C2422",
                 "monitor2": "Dell P2425HEB",
                 "phone": "ShoreTel 212k",
-            },
-             {
+            }
+        },
+        {
             "pin": "07072025",
             "data": {
                 "name": "Moo Moo",
