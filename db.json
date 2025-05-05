@@ -1,109 +1,108 @@
 {
-    "customer": [
-        {
-            "pin": "12012025",
-            "data": {
-                "name": "Sara Lee",
-                "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
-                "laptopmodel": "Dell Precision 5560",
-                "laptopname": "MCCP201-02L",
-                "printer": "HP DeskJet M254",
-                "monitor": "Dell C2422",
-                "monitor2": "Dell P2425HEB",
-                "phone": "ShoreTel 230",
-            }
-        },
-        {
-            "pin": "01012025",
-            "data": {
-                "name": "Moo Moo",
-                "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
-                "laptopmodel": "Dell Precision 3660",
-                "laptopname": "FPW03B-01",
-                "printer": "HP DeskJet M254",
-                "monitor": "Dell C2422",
-                "monitor2": "Dell P2425HEB",
-                "phone": "ShoreTel 212k",
-            }
-        },
-        {
-            "pin": "02022025",
-            "data": {
-                "name": "Moo Moo",
-                "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
-                "laptopmodel": "Dell Precision 3660",
-                "laptopname": "FPW03B-01",
-                "printer": "HP DeskJet M254",
-                "monitor": "Dell C2422",
-                "monitor2": "Dell P2425HEB",
-                "phone": "ShoreTel 212k",
-             }
-           
-        },
-        {
-            "pin": "03032025",
-            "data": {
-                "name": "Moo Moo",
-                "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
-                "laptopmodel": "Dell Precision 3660",
-                "laptopname": "FPW03B-01",
-                "printer": "HP DeskJet M254",
-                "monitor": "Dell C2422",
-                "monitor2": "Dell P2425HEB",
-                "phone": "ShoreTel 212k",
-            }
-        },
-        {
-            "pin": "04042025",
-            "data": {
-                "name": "Moo Moo",
-                "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
-                "laptopmodel": "Dell Precision 3660",
-                "laptopname": "FPW03B-01",
-                "printer": "HP DeskJet M254",
-                "monitor": "Dell C2422",
-                "monitor2": "Dell P2425HEB",
-                "phone": "ShoreTel 212k",
-            }
-        },
-        {
-            "pin": "05052025",
-            "data": {
-                "name": "Moo Moo",
-                "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
-                "laptopmodel": "Dell Precision 3660",
-                "laptopname": "FPW03B-01",
-                "printer": "HP DeskJet M254",
-                "monitor": "Dell C2422",
-                "monitor2": "Dell P2425HEB",
-                "phone": "ShoreTel 212k",
-             }
-        },
-        {
-            "pin": "06062025",
-            "data": {
-                "name": "Moo Moo",
-                "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
-                "laptopmodel": "Dell Precision 3660",
-                "laptopname": "FPW03B-01",
-                "printer": "HP DeskJet M254",
-                "monitor": "Dell C2422",
-                "monitor2": "Dell P2425HEB",
-                "phone": "ShoreTel 212k",
-            }
-        },
-        {
-            "pin": "07072025",
-            "data": {
-                "name": "Moo Moo",
-                "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
-                "laptopmodel": "Dell Precision 3660",
-                "laptopname": "FPW03B-01",
-                "printer": "HP DeskJet M254",
-                "monitor": "Dell C2422",
-                "monitor2": "Dell P2425HEB",
-                "phone": "ShoreTel 212k",
-            }
-        }
-    ]
+  "customer": [
+    {
+      "pin": "12012025",
+      "data": {
+        "name": "Sara Lee",
+        "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
+        "laptopmodel": "Dell Precision 5560",
+        "laptopname": "MCCP201-02L",
+        "printer": "HP DeskJet M254",
+        "monitor": "Dell C2422",
+        "monitor2": "Dell P2425HEB",
+        "phone": "ShoreTel 230"
+      }
+    },
+    {
+      "pin": "01012025",
+      "data": {
+        "name": "Moo Moo",
+        "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
+        "laptopmodel": "Dell Precision 3660",
+        "laptopname": "FPW03B-01",
+        "printer": "HP DeskJet M254",
+        "monitor": "Dell C2422",
+        "monitor2": "Dell P2425HEB",
+        "phone": "ShoreTel 212k"
+      }
+    },
+    {
+      "pin": "02022025",
+      "data": {
+        "name": "Moo Moo",
+        "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
+        "laptopmodel": "Dell Precision 3660",
+        "laptopname": "FPW03B-01",
+        "printer": "HP DeskJet M254",
+        "monitor": "Dell C2422",
+        "monitor2": "Dell P2425HEB",
+        "phone": "ShoreTel 212k"
+      }
+    },
+    {
+      "pin": "03032025",
+      "data": {
+        "name": "Moo Moo",
+        "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
+        "laptopmodel": "Dell Precision 3660",
+        "laptopname": "FPW03B-01",
+        "printer": "HP DeskJet M254",
+        "monitor": "Dell C2422",
+        "monitor2": "Dell P2425HEB",
+        "phone": "ShoreTel 212k"
+      }
+    },
+    {
+      "pin": "04042025",
+      "data": {
+        "name": "Moo Moo",
+        "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
+        "laptopmodel": "Dell Precision 3660",
+        "laptopname": "FPW03B-01",
+        "printer": "HP DeskJet M254",
+        "monitor": "Dell C2422",
+        "monitor2": "Dell P2425HEB",
+        "phone": "ShoreTel 212k"
+      }
+    },
+    {
+      "pin": "05052025",
+      "data": {
+        "name": "Moo Moo",
+        "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
+        "laptopmodel": "Dell Precision 3660",
+        "laptopname": "FPW03B-01",
+        "printer": "HP DeskJet M254",
+        "monitor": "Dell C2422",
+        "monitor2": "Dell P2425HEB",
+        "phone": "ShoreTel 212k"
+      }
+    },
+    {
+      "pin": "06062025",
+      "data": {
+        "name": "Moo Moo",
+        "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
+        "laptopmodel": "Dell Precision 3660",
+        "laptopname": "FPW03B-01",
+        "printer": "HP DeskJet M254",
+        "monitor": "Dell C2422",
+        "monitor2": "Dell P2425HEB",
+        "phone": "ShoreTel 212k"
+      }
+    },
+    {
+      "pin": "07072025",
+      "data": {
+        "name": "Moo Moo",
+        "pwlink": "https://aka.ms/sspr?whr=stlcc.edu",
+        "laptopmodel": "Dell Precision 3660",
+        "laptopname": "FPW03B-01",
+        "printer": "HP DeskJet M254",
+        "monitor": "Dell C2422",
+        "monitor2": "Dell P2425HEB",
+        "phone": "ShoreTel 212k"
+      }
+    }
+  ]
 }
